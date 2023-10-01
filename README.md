@@ -1,5 +1,7 @@
 # Module 2 Capstone - TEBucks
 
+This Project was made as a capstone for my course at Tech Elevator, alongside my partner Emelie Kerek. The details we were given for building the project are found below.
+
 Congratulations—you've landed a job with TEBucks, whose product is an online payment service for transferring "TE bucks" between friends. However, they don't have a product yet. You've been tasked with writing a RESTful API server and command-line application.
 
 The frontend of TEBucks has been completed for you, and it is hosted at https://tebucks.netlify.app/
